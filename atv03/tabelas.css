@@ -1,0 +1,41 @@
+body {
+    font-family: arial;
+    text-align: center;
+    color: coral;
+}
+
+
+h1 {
+    font-family: Arial;
+    font-size: 30pt;
+    background-color: dimgrey;
+    padding: 30px;
+    margin: 60px;
+    text-align: center;
+    color: lawngreen;
+    width: 400px;
+    
+}
+h1:hover {
+    font-family: Arial;
+    font-size: 30pt;
+    background-color: rgb(199, 0, 0);
+    padding: 30px;
+    margin: 60px;
+    text-align: center;
+    color: rgb(155, 155, 155);
+    
+}
+
+.destaque{
+    font-size: 45px;
+    font-weight: 200;
+    text-align: left;
+
+}
+
+.pequeno{
+    font-size: 10px;
+    text-align: right;
+
+}
